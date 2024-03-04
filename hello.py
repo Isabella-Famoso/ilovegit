@@ -6,3 +6,5 @@ Created on Mon Mar  4 12:45:20 2024
 """
 
 print('Hello World!')
+x=2+2
+print(x)
